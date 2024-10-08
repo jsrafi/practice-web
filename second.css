@@ -1,0 +1,13 @@
+.blog
+{
+    box-shadow: 10px 10px 20px blue;
+}
+#first
+{
+    background-image: url('https://cdn.prod.website-files.com/5ef5480befd392489dacf544/5f9f5e5943de7e69a1339242_5f44a7398c0cdf460857e744_img-image.jpeg');
+    height: 500px;
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
